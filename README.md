@@ -29,6 +29,7 @@ A proxy server for handling TMDB API requests for the Netflix GPT application.
    TMDB_ACCESS_TOKEN=your_tmdb_access_token_here
    TMDB_BASE_URL=https://api.themoviedb.org/3
    NODE_ENV=development
+   PROXY_URL=http://your-proxy-url
    ```
 
 ## Development
